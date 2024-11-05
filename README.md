@@ -1,6 +1,6 @@
 # Full-Stack-Setup-Practice
 
--use mongoose for db connection
+-use mongoose for db connection -> make sure to check MongoDB compass for what database you are using and to establish the connection
 <br>
 -use express server to link db and frontend
 <br>
